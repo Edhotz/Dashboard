@@ -1,0 +1,1 @@
+export { IoniconCCard } from "./IoniconCCard";

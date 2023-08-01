@@ -1,0 +1,1 @@
+export { IoniconDDocumentWrapper } from "./IoniconDDocumentWrapper";

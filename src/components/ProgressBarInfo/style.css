@@ -1,0 +1,33 @@
+.progress-bar-info {
+  height: 19px;
+  position: relative;
+  width: 155px;
+}
+
+.progress-bar-info .text-wrapper {
+  color: #8898aa;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.progress-bar-info .bar-on-wrapper {
+  background-color: #e1e4e7;
+  box-shadow: inset 0px 1px 2px #0000001a;
+  height: 3px;
+  left: 35px;
+  position: absolute;
+  top: 9px;
+  width: 120px;
+}
+
+.progress-bar-info .div {
+  background-color: #11cdef;
+  height: 3px;
+  width: 107px;
+}

@@ -1,0 +1,2126 @@
+.dashboard {
+  background-color: var(--graygray-50);
+  border: 1px none;
+  height: 1150.1px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.dashboard .overlap {
+  height: 1121px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 2292px;
+}
+
+.dashboard .background {
+  height: 395px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1917px;
+}
+
+.dashboard .image {
+  height: 51px;
+  left: 1682px;
+  position: absolute;
+  top: 42px;
+  width: 51px;
+}
+
+.dashboard .div-2 {
+  height: 867px;
+  left: 305px;
+  position: absolute;
+  top: 254px;
+  width: 1583px;
+}
+
+.dashboard .chart-bar-chart {
+  height: 469px;
+  left: 1072px;
+  position: absolute;
+  top: 0;
+  width: 511px;
+}
+
+.dashboard .group-copy {
+  height: 469px;
+  width: 515px;
+}
+
+.dashboard .overlap-group {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 5px 14px #0000000d;
+  height: 469px;
+  position: relative;
+  width: 511px;
+}
+
+.dashboard .text-wrapper-2 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard .total-orders {
+  color: var(--graygray-700);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.dashboard .overlap-2 {
+  height: 345px;
+  left: 31px;
+  position: absolute;
+  top: 103px;
+  width: 441px;
+}
+
+.dashboard .line {
+  height: 1px;
+  left: 27px;
+  position: absolute;
+  top: 304px;
+  width: 414px;
+}
+
+.dashboard .img {
+  height: 1px;
+  left: 27px;
+  position: absolute;
+  top: 207px;
+  width: 414px;
+}
+
+.dashboard .line-2 {
+  height: 1px;
+  left: 27px;
+  position: absolute;
+  top: 109px;
+  width: 414px;
+}
+
+.dashboard .line-3 {
+  height: 1px;
+  left: 27px;
+  position: absolute;
+  top: 13px;
+  width: 414px;
+}
+
+.dashboard .rectangle {
+  background-color: var(--orangeorange-400);
+  border-radius: 5.5px;
+  height: 242px;
+  left: 55px;
+  position: absolute;
+  top: 62px;
+  width: 11px;
+}
+
+.dashboard .rectangle-2 {
+  background-color: var(--orangeorange-400);
+  border-radius: 5.5px;
+  height: 195px;
+  left: 124px;
+  position: absolute;
+  top: 110px;
+  width: 11px;
+}
+
+.dashboard .rectangle-3 {
+  background-color: var(--orangeorange-400);
+  border-radius: 5.5px;
+  height: 291px;
+  left: 193px;
+  position: absolute;
+  top: 13px;
+  width: 11px;
+}
+
+.dashboard .rectangle-4 {
+  background-color: var(--orangeorange-400);
+  border-radius: 5.5px;
+  height: 214px;
+  left: 262px;
+  position: absolute;
+  top: 91px;
+  width: 11px;
+}
+
+.dashboard .rectangle-5 {
+  background-color: var(--orangeorange-400);
+  border-radius: 5.5px;
+  height: 165px;
+  left: 331px;
+  position: absolute;
+  top: 139px;
+  width: 11px;
+}
+
+.dashboard .rectangle-6 {
+  background-color: var(--orangeorange-400);
+  border-radius: 5.5px;
+  height: 281px;
+  left: 401px;
+  position: absolute;
+  top: 24px;
+  width: 11px;
+}
+
+.dashboard .months-and-values {
+  height: 345px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 438px;
+}
+
+.dashboard .text-wrapper-3 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-4 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 101px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-5 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 202px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-6 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 303px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-7 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 333px;
+  white-space: nowrap;
+}
+
+.dashboard .aug {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 333px;
+  white-space: nowrap;
+}
+
+.dashboard .sep {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 333px;
+  white-space: nowrap;
+}
+
+.dashboard .oct {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 333px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-8 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 324px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 333px;
+  white-space: nowrap;
+}
+
+.dashboard .dec {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 395px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 333px;
+  white-space: nowrap;
+}
+
+.dashboard .tables-card-table {
+  height: 350px;
+  left: 1px;
+  position: absolute;
+  top: 515px;
+  width: 1050px;
+}
+
+.dashboard .overlap-wrapper {
+  height: 350px;
+  width: 1052px;
+}
+
+.dashboard .overlap-3 {
+  height: 350px;
+  position: relative;
+  width: 1058px;
+}
+
+.dashboard .BG {
+  background-color: var(--blackampwhitewhite);
+  border-radius: 20px;
+  box-shadow: 0px 5px 14px #0000000d;
+  height: 350px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1050px;
+}
+
+.dashboard .rows {
+  height: 242px;
+  left: 1px;
+  position: absolute;
+  top: 105px;
+  width: 1049px;
+}
+
+.dashboard .row {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 198px;
+  width: 1059px;
+}
+
+.dashboard .line-4 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1049px;
+}
+
+.dashboard .title {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+}
+
+.dashboard .visitors {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 353px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+}
+
+.dashboard .unique-users {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+}
+
+.dashboard .bounce-rate {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 846px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+}
+
+.dashboard .fontawesome {
+  color: var(--greengreen-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 815px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.dashboard .row-2 {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 148px;
+  width: 1059px;
+}
+
+.dashboard .title-2 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.dashboard .visitors-2 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 353px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.dashboard .unique-users-2 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.dashboard .bounce-rate-2 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 846px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.dashboard .fontawesome-2 {
+  color: var(--greengreen-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 815px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.dashboard .row-3 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 98px;
+  width: 1059px;
+}
+
+.dashboard .title-3 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.dashboard .visitors-3 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 353px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.dashboard .unique-users-3 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.dashboard .bounce-rate-3 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 846px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.dashboard .fontawesome-3 {
+  color: var(--greengreen-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 815px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+}
+
+.dashboard .row-4 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 1059px;
+}
+
+.dashboard .title-4 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.dashboard .visitors-4 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 353px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.dashboard .unique-users-4 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.dashboard .bounce-rate-4 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 846px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.dashboard .fontawesome-4 {
+  color: var(--greengreen-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 815px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.dashboard .row-5 {
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1059px;
+}
+
+.dashboard .title-5 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard .visitors-5 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 353px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard .unique-users-5 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 550px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard .bounce-rate-5 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 846px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard .fontawesome-5 {
+  color: var(--greengreen-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 815px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+}
+
+.dashboard .header {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 66px;
+  width: 1058px;
+}
+
+.dashboard .overlap-group-2 {
+  height: 40px;
+  position: relative;
+  width: 1050px;
+}
+
+.dashboard .rectangle-7 {
+  background-color: var(--graygray-50);
+  height: 39px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1049px;
+}
+
+.dashboard .line-5 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1050px;
+}
+
+.dashboard .text-wrapper-9 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 26px;
+  letter-spacing: 1px;
+  line-height: 12px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dashboard .VISITORS {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 355px;
+  letter-spacing: 1px;
+  line-height: 12px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dashboard .UNIQUE-USERS {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 552px;
+  letter-spacing: 1px;
+  line-height: 12px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dashboard .BOUNCE-RATE {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 817px;
+  letter-spacing: 1px;
+  line-height: 12px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dashboard .button {
+  height: 27px;
+  left: 959px;
+  position: absolute;
+  top: 20px;
+  width: 72px;
+}
+
+.dashboard .div-wrapper {
+  background-color: #3182ce;
+  border-radius: 8px;
+  height: 27px;
+  position: relative;
+  width: 70px;
+}
+
+.dashboard .text {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  height: 10px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 44px;
+}
+
+.dashboard .title-6 {
+  color: var(--graygray-700);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.dashboard .tables-card-table-wrapper {
+  height: 352px;
+  left: 1072px;
+  position: absolute;
+  top: 515px;
+  width: 510px;
+}
+
+.dashboard .overlap-group-wrapper {
+  height: 352px;
+  width: 512px;
+}
+
+.dashboard .overlap-4 {
+  height: 352px;
+  position: relative;
+  width: 514px;
+}
+
+.dashboard .BG-2 {
+  background-color: var(--blackampwhitewhite);
+  border-radius: 20px;
+  box-shadow: 0px 5px 14px #0000000d;
+  height: 352px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 510px;
+}
+
+.dashboard .rows-2 {
+  height: 239px;
+  left: 1px;
+  position: absolute;
+  top: 105px;
+  width: 509px;
+}
+
+.dashboard .row-6 {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 198px;
+  width: 513px;
+}
+
+.dashboard .line-6 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 509px;
+}
+
+.dashboard .visitors-6 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+}
+
+.dashboard .design-component-instance-node {
+  height: 18px !important;
+  left: 284px !important;
+  position: absolute !important;
+  top: 14px !important;
+}
+
+.dashboard .design-component-instance-node-2 {
+  color: var(--graygray-500) !important;
+  font-family: "Poppins", Helvetica !important;
+  font-weight: 700 !important;
+  top: -1px !important;
+}
+
+.dashboard .design-component-instance-node-3 {
+  background-color: #e2e8f0 !important;
+}
+
+.dashboard .progress-bar-warning-instance {
+  background-color: var(--orangeorange-400) !important;
+}
+
+.dashboard .row-7 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 149px;
+  width: 513px;
+}
+
+.dashboard .visitors-7 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.dashboard .progress-bar-info-instance {
+  background-color: var(--cyancyan-400) !important;
+}
+
+.dashboard .row-8 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 98px;
+  width: 513px;
+}
+
+.dashboard .visitors-8 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.dashboard .row-9 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 513px;
+}
+
+.dashboard .visitors-9 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.dashboard .row-10 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 513px;
+}
+
+.dashboard .visitors-10 {
+  color: var(--graygray-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard .button-2 {
+  height: 27px;
+  left: 419px;
+  position: absolute;
+  top: 20px;
+  width: 72px;
+}
+
+.dashboard .text-2 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  height: 10px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 44px;
+}
+
+.dashboard .header-2 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 66px;
+  width: 514px;
+}
+
+.dashboard .overlap-5 {
+  height: 40px;
+  position: relative;
+  width: 510px;
+}
+
+.dashboard .rectangle-8 {
+  background-color: var(--graygray-50);
+  height: 39px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 509px;
+}
+
+.dashboard .line-7 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 510px;
+}
+
+.dashboard .VISITORS-2 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 163px;
+  letter-spacing: 1px;
+  line-height: 12px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dashboard .second-card {
+  background: linear-gradient(180deg, rgb(49, 56, 96) 0%, rgb(21, 25, 40) 100%);
+  border-radius: 20px;
+  box-shadow: 0px 5px 14px #0000000d;
+  height: 491px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 1052px;
+}
+
+.dashboard .text-3 {
+  height: 25px;
+  left: 21px;
+  position: absolute;
+  top: 44px;
+  width: 204px;
+}
+
+.dashboard .text-wrapper-10 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.dashboard .graph {
+  height: 350px;
+  left: 22px;
+  position: absolute;
+  top: 119px;
+  width: 1010px;
+}
+
+.dashboard .data {
+  height: 350px;
+  position: relative;
+}
+
+.dashboard .horizontal {
+  height: 12px;
+  left: 41px;
+  position: absolute;
+  top: 338px;
+  width: 993px;
+}
+
+.dashboard .text-wrapper-11 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 945px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-12 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 858px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-13 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 773px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-14 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 686px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-15 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 599px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-16 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 516px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-17 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 430px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-18 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-19 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 258px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-20 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-21 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-22 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .div-3 {
+  height: 318px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1020px;
+}
+
+.dashboard .text-wrapper-23 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 306px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-24 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 244px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-25 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 184px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-26 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 122px;
+  white-space: nowrap;
+}
+
+.dashboard .text-wrapper-27 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.dashboard .lines {
+  height: 304px;
+  left: 41px;
+  position: absolute;
+  top: 7px;
+  width: 968px;
+}
+
+.dashboard .line-8 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 303px;
+  width: 968px;
+}
+
+.dashboard .line-9 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 242px;
+  width: 968px;
+}
+
+.dashboard .line-10 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 181px;
+  width: 968px;
+}
+
+.dashboard .line-11 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 121px;
+  width: 968px;
+}
+
+.dashboard .line-12 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 968px;
+}
+
+.dashboard .line-13 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 968px;
+}
+
+.dashboard .lines-2 {
+  height: 305px;
+  left: 40px;
+  position: absolute;
+  top: 6px;
+  width: 969px;
+}
+
+.dashboard .first-cards {
+  height: 117px;
+  left: 306px;
+  position: absolute;
+  top: 120px;
+  width: 1582px;
+}
+
+.dashboard .TOTAL-SALES {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 5px 14px #0000000d;
+  height: 117px;
+  left: 1207px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.dashboard .title-7 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.dashboard .element-2 {
+  color: var(--greengreen-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.dashboard .text-wrapper-28 {
+  color: var(--graygray-700);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.dashboard .time {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.dashboard .div-4 {
+  height: 49px;
+  left: 309px;
+  position: absolute;
+  top: 17px;
+  width: 48px;
+}
+
+.dashboard .overlap-group-3 {
+  height: 49px;
+  position: relative;
+}
+
+.dashboard .oval {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.dashboard .rectangle-9 {
+  background-color: var(--blueblue-500);
+  border-radius: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 48px;
+}
+
+.dashboard .design-component-instance-node-4 {
+  height: 22px !important;
+  left: 13px !important;
+  top: 14px !important;
+  width: 22px !important;
+}
+
+.dashboard .NEW-CLIENTS {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 5px 14px #0000000d;
+  height: 117px;
+  left: 806px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.dashboard .element-3 {
+  color: var(--redred-500);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.dashboard .icon {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.dashboard .ionicon-p-person-default {
+  height: 22px !important;
+  left: 12px !important;
+  top: 14px !important;
+  width: 25px !important;
+}
+
+.dashboard .TODAYS-MONEY {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 5px 14px #0000000d;
+  height: 117px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.dashboard .first-cards-2 {
+  height: 117px;
+  left: 710px;
+  position: absolute;
+  top: 120px;
+  width: 1582px;
+}
+
+.dashboard .ionicon-c-cart-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/bb7d47d66e623e173a54fcb164292792/img/oval-2@2x.png);
+  background-size: 100% 100%;
+  height: 46px;
+  left: 3773px;
+  position: absolute;
+  top: 308px;
+  width: 48px;
+}
+
+.dashboard .element-4 {
+  color: #48bb78;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.dashboard .element-5 {
+  color: #e53e3e;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.dashboard .sidebar {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 5px 14px #0000000d;
+  height: 900px;
+  left: 20px;
+  position: absolute;
+  top: 30px;
+  width: 265px;
+}
+
+.dashboard .button-base {
+  align-items: center;
+  background-color: var(--graygray-700);
+  border-radius: 8px;
+  display: flex;
+  height: 33px;
+  justify-content: center;
+  left: 40px;
+  padding: 0px 8px;
+  position: absolute;
+  top: 786px;
+  width: 186px;
+}
+
+.dashboard .width-structure {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard .height-structure {
+  align-items: center;
+  display: inline-flex;
+  height: 24px;
+  position: relative;
+}
+
+.dashboard .button-body {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.dashboard .text-4 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-top: -0.5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard .min-width {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 12px;
+  position: relative;
+}
+
+.dashboard .content {
+  background-color: #c4c4c4;
+  height: 1px;
+  margin-right: -0.99px;
+  position: relative;
+  width: 1px;
+}
+
+.dashboard .menu {
+  height: 438px;
+  left: 21px;
+  position: absolute;
+  top: 106px;
+  width: 222px;
+}
+
+.dashboard .profile {
+  height: 18px;
+  left: 26px;
+  position: absolute;
+  top: 420px;
+  width: 88px;
+}
+
+.dashboard .ionicon-p-person-instance {
+  height: 17px !important;
+  width: 21px !important;
+}
+
+.dashboard .text-wrapper-29 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 18px;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.dashboard .text-wrapper-30 {
+  color: var(--graygray-700);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 18px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+  width: 117px;
+}
+
+.dashboard .RTL {
+  height: 18px;
+  left: 24px;
+  position: absolute;
+  top: 180px;
+  width: 136px;
+}
+
+.dashboard .design-component-instance-node-5 {
+  height: 15px !important;
+  top: 1px !important;
+  width: 15px !important;
+}
+
+.dashboard .text-wrapper-31 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 18px;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.dashboard .billing {
+  height: 18px;
+  left: 24px;
+  position: absolute;
+  top: 126px;
+  width: 105px;
+}
+
+.dashboard .ionicon-c-card-default {
+  height: 15px !important;
+  top: 2px !important;
+  width: 15px !important;
+}
+
+.dashboard .text-wrapper-32 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 18px;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.dashboard .tables {
+  height: 18px;
+  left: 58px;
+  position: absolute;
+  top: 72px;
+  width: 64px;
+}
+
+.dashboard .text-wrapper-33 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 18px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.dashboard .tables-2 {
+  height: 18px;
+  left: 23px;
+  position: absolute;
+  top: 234px;
+  width: 115px;
+}
+
+.dashboard .text-wrapper-34 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 18px;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.dashboard .overlap-group-wrapper-2 {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 222px;
+}
+
+.dashboard .overlap-group-4 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 5px 14px #0000000d;
+  height: 54px;
+  position: relative;
+  width: 220px;
+}
+
+.dashboard .ionicon-h-home-wrapper {
+  background-color: #3182ce;
+  border-radius: 8px;
+  height: 30px;
+  left: 16px;
+  position: absolute;
+  top: 12px;
+  width: 30px;
+}
+
+.dashboard .ionicon-h-home-default {
+  height: 15px !important;
+  left: 8px !important;
+  top: 8px !important;
+  width: 15px !important;
+}
+
+.dashboard .text-wrapper-35 {
+  color: var(--graygray-700);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 18px;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.dashboard .vector {
+  height: 1px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 83px;
+  width: 233px;
+}
+
+.dashboard .ionicon-d-document-default {
+  height: 15px !important;
+  left: 64px !important;
+  top: 210px !important;
+  width: 15px !important;
+}
+
+.dashboard .breadcrumb {
+  height: 45px;
+  left: 317px;
+  position: absolute;
+  top: 39px;
+  width: 1558px;
+}
+
+.dashboard .menu-2 {
+  height: 37px;
+  left: 982px;
+  position: absolute;
+  top: 1px;
+  width: 576px;
+}
+
+.dashboard .input-withaddons {
+  align-items: center;
+  background-color: var(--blackampwhitewhite);
+  border: 0.5px solid;
+  border-color: var(--graygray-200);
+  border-radius: 8px;
+  display: flex;
+  height: 37px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 338px;
+}
+
+.dashboard .auto-added-frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: 37.5px;
+}
+
+.dashboard .addon {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  height: 20px;
+  padding: 4px 6px;
+  position: relative;
+}
+
+.dashboard .icon-2 {
+  height: 15px;
+  margin-bottom: -1.5px;
+  margin-top: -1.5px;
+  position: relative;
+  width: 15px;
+}
+
+.dashboard .input-fieldtext {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 209px;
+}
+
+.dashboard .text-wrapper-36 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -0.5px;
+  position: relative;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.dashboard .content-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 0px 74px;
+  position: relative;
+}
+
+.dashboard .content-2 {
+  height: 1px;
+  margin-right: -0.99px;
+  position: relative;
+  width: 1px;
+}
+
+.dashboard .ionicon-s-settings-sharp {
+  height: 12px !important;
+  left: 535px !important;
+  top: 17px !important;
+  width: 12px !important;
+}
+
+.dashboard .ionicon-n-notifications-default {
+  height: 12px !important;
+  left: 564px !important;
+  top: 17px !important;
+  width: 12px !important;
+}
+
+.dashboard .text-5 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.dashboard .text-wrapper-37 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.dashboard .paginas-dashboard {
+  color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.dashboard .span {
+  color: #ffffff;
+}
+
+.dashboard .text-wrapper-38 {
+  color: #000000;
+}
+
+.dashboard .text-wrapper-39 {
+  color: var(--blackampwhitewhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 14px;
+  left: 1741px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.dashboard .footer-menu {
+  height: 18px;
+  left: 306px;
+  position: absolute;
+  top: 1167px;
+  width: 508px;
+}
+
+.dashboard .copyright {
+  height: 18px;
+  position: relative;
+  width: 510px;
+}
+
+.dashboard .text-wrapper-40 {
+  color: var(--graygray-400);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 508px;
+}

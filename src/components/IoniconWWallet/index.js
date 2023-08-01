@@ -1,0 +1,1 @@
+export { IoniconWWallet } from "./IoniconWWallet";
